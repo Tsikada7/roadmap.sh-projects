@@ -14,3 +14,5 @@ To view the project, simply open the HTML file in any web browser.
 If you are using Visual Studio Code, you can use the **Live Server** extension:
 1. Right-click on `index.html`.
 2. Select **"Open with Live Server"**.
+
+Link: https://roadmap.sh/projects/single-page-cv
